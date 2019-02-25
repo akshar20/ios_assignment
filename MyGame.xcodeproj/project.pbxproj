@@ -14,7 +14,7 @@
 		9B39FDB8221EF970006AA189 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B39FDB7221EF970006AA189 /* Assets.xcassets */; };
 		9B39FDBB221EF970006AA189 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B39FDB9221EF970006AA189 /* LaunchScreen.storyboard */; };
 		9B39FDCC221EFF75006AA189 /* monster.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B39FDCA221EFF75006AA189 /* monster.png */; };
-		9B39FDCF221EFFFA006AA189 /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B39FDCE221EFFFA006AA189 /* player.png */; };
+		9BB0480A2224731D00346D79 /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB048092224731D00346D79 /* player.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		9B39FDBA221EF970006AA189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B39FDBC221EF970006AA189 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B39FDCA221EFF75006AA189 /* monster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster.png; sourceTree = "<group>"; };
-		9B39FDCE221EFFFA006AA189 /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player.png; path = ../../player.png; sourceTree = "<group>"; };
+		9BB048092224731D00346D79 /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				9B39FDB4221EF970006AA189 /* Main.storyboard */,
 				9B39FDB7221EF970006AA189 /* Assets.xcassets */,
 				9B39FDCA221EFF75006AA189 /* monster.png */,
-				9B39FDCE221EFFFA006AA189 /* player.png */,
+				9BB048092224731D00346D79 /* player.png */,
 				9B39FDB9221EF970006AA189 /* LaunchScreen.storyboard */,
 				9B39FDBC221EF970006AA189 /* Info.plist */,
 			);
@@ -132,7 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B39FDB6221EF970006AA189 /* Main.storyboard in Resources */,
-				9B39FDCF221EFFFA006AA189 /* player.png in Resources */,
+				9BB0480A2224731D00346D79 /* player.png in Resources */,
 				9B39FDB8221EF970006AA189 /* Assets.xcassets in Resources */,
 				9B39FDCC221EFF75006AA189 /* monster.png in Resources */,
 				9B39FDBB221EF970006AA189 /* LaunchScreen.storyboard in Resources */,
